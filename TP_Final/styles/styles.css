@@ -1,0 +1,270 @@
+body {
+    background-color: rgb(255, 255, 255)
+}
+
+.accueil {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: auto 50px;
+}
+
+.parfum1 {
+    position: absolute;
+    scale: 8%;
+    left: 534px;
+    top: 63px;
+}
+
+.parfum1:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+}
+
+.parfum2 {
+    position: absolute;
+    scale: 11%;
+    left: 846px;
+    top: 180px;
+}
+
+.parfum2:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+}
+
+.acrylic {
+    position: absolute;
+    scale: 12%;
+    left: 115px;
+    top: -56px;
+}
+
+.acrylic:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+}
+
+.CD {
+    position: absolute;
+    scale: 10.5%;
+    left: 395px;
+    top: -150px;
+}
+
+.CD:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+}
+
+.durag1 {
+    position: absolute;
+    scale: 22%;
+    left: 622px;
+    top: -441px;
+}
+
+.durag1:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+}
+
+.durag2 {
+    position: absolute;
+    scale: 26%;
+    left: 976px;
+    top: -350px;
+}
+
+.durag2:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-out;
+}
+
+.bouton {
+    position: absolute;
+    scale: 23%;
+    left: -520px;
+    top: -50px;
+}
+
+.bouton:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
+.page1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -150px auto;
+}
+
+.page2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -150px auto;
+}
+
+.page3 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -150px auto;
+}
+
+.page4 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -150px auto;
+}
+
+.page5 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -150px auto;
+}
+
+.textp5 {
+    position: absolute;
+    width: 1000px;
+    height: 170px;
+    left: 30px;
+    top: 300px;
+}
+
+.couleurs1 {
+    position: absolute;
+    scale: 50%;
+    top: -170px;
+    left: 700px;
+    animation: spin 7s linear infinite;
+}
+
+.couleurs2 {
+    position: absolute;
+    scale: 50%;
+    top: -170px;
+    left: 700px;
+    animation: spin reverse 6s linear infinite;
+}
+
+.couleurs3 {
+    position: absolute;
+    scale: 50%;
+    top: -170px;
+    left: 699px;
+    animation: spin 5s linear infinite;
+}
+
+.couleurs4 {
+    position: absolute;
+    scale: 50%;
+    top: -170px;
+    left: 700px;
+    animation: spin reverse 4s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.chaussure1 {
+    position: absolute;
+    scale: 30%;
+    left: -400px;
+    top: 280px;
+    animation: 2s linear 0s infinite alternate shoe-step;
+}
+
+.chaussure2 {
+    position: absolute;
+    scale: 27%;
+    left: -20px;
+    top: 240px;
+    animation: 2s linear 0s infinite alternate shoe-step;
+    animation-delay: unset;
+}
+
+.chaussure3 {
+    position: absolute;
+    scale: 33%;
+    left: 80px;
+    top: 530px;
+    animation: 2s linear 0s infinite alternate shoe-step;
+}
+
+.chaussure4 {
+    position: absolute;
+    scale: 30%;
+    left: -400px;
+    top: 520px;
+    animation: 2s linear 0s infinite alternate shoe-step;
+}
+
+@keyframes shoe-step {
+  from {
+    transform: translateY(8vh);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.page6 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -150px auto;
+}
+
+.textp6 {
+    position: absolute;
+    width: 700px;
+    height: 100px;
+    left: 30px;
+    top: 300px;
+}
+
+.duragm {
+    position: absolute;
+    scale: 25%;
+    left: 725px;
+    top: -20px;
+}
+
+.duragp {
+    position: absolute;
+    scale: 30%;
+    left: 400px;
+    top: 145px;
+}
+
+.duragsa {
+    position: absolute;
+    scale: 30%;
+    left: 1150px;
+    top: -250px;
+}
+
+.duragsi {
+    position: absolute;
+    scale: 33%;
+    left: 1100px;
+    top: 220px;
+}
+
+.duragv {
+    position: absolute;
+    scale: 26%;
+    left: 620px;
+    top: -370px;
+}
