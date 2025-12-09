@@ -343,3 +343,188 @@ body {
 .duragv:hover {
     transform: scale(1.05) rotate(2deg);
 }
+
+/* PAGE 3 */
+body{
+background-color: #C5A78F;
+}
+
+.collection1{
+position: absolute;
+align-items: center;
+top: 100px;
+left: 1200px;
+animation: slide-in-collection 3s ease-in reverse both running;
+}
+
+.ita{
+position: absolute;
+align-items: center;
+top: 800px;
+left: 1150px;
+animation: slide-in-ita 6s ease-in reverse both running;
+}
+
+.omanjuu{
+position: absolute;
+top: 800px;
+left: 1670px;
+animation: slide-in-omanjuu 5s ease-in reverse both running;
+}
+
+.ryuseitai{
+position: absolute;
+align-items: center;
+top:600px;
+left: 300px;
+}
+
+
+/* HOVERS, KEYFRAMES */
+.ryuseitai:hover{
+transform: scale(1.1);
+transition: 0.3s ease-out ;
+}
+
+.omanjuu:hover{
+transform: scale(1.1);
+transition: 0.3s ease-out;
+}
+
+@keyframes slide-in-collection {
+    
+    from {
+        right:100px;
+    }
+    to {
+        left:300px;
+    }
+}
+
+@keyframes slide-in-omanjuu {
+    
+    from {
+        right:200px;
+    }
+    to {
+        left:300px;
+    }
+}
+
+
+@keyframes slide-in-ita {
+    
+    from {
+        right:200px;
+    }
+    to {
+        left:300px;
+    }
+}
+
+/* PAGE 4 */
+body{
+background-color: #C5A78F;
+}
+
+
+.sac{
+position: absolute;
+top: 800px;
+left: 600px;
+transition: transform 0.3s ease;
+}
+
+.shrine{
+position: absolute;
+top: 810px;
+left: 1280px;
+transition: transform 0.3s ease;
+}
+
+.bebe{
+position: absolute;
+top: 400px;
+left: 1500px;
+transition: transform 0.3s ease;
+}
+
+.mido{   
+position: absolute;
+left: 100px;
+top: 200px;
+animation: slide-in-mido 2.5s linear forwards running;
+}
+
+.chub{
+position: absolute;
+left: 1600px;
+top: 120px;
+transition: transform 0.3s ease;
+scale: 90%;
+}
+
+.circle{
+    align-items: center;
+    position: absolute;
+    top:700px;
+    left:500px;
+    animation: spin 3s linear infinite;
+    z-index: 10;
+}
+
+.ligne{
+  position: absolute;
+  top: 150px;
+  left: 400px;
+  z-index: -1
+}
+
+.text4{
+  position: absolute;
+  align-items: center;
+  top: 400px;
+  left: 700px;
+}
+
+.text3{
+  position: absolute;
+  align-items: center;
+  top: 300px;
+  left: 300px;
+}
+
+
+/* KEYFRAMES/HOVER */
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+@keyframes slide-in-mido {
+    from {
+        left:-10px;
+    }
+    to {
+        left:300px;
+    }
+}
+
+.chub:hover {
+  transform: rotate(5deg); }
+
+.shrine:hover {
+  transform: rotate(5deg); }
+
+.sac:hover {
+  transform: rotate(-5deg); }
+
+
+.bebe:hover {
+transform: scale(1.1);
+    transition: 0.3s ease-out}
