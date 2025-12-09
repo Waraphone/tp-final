@@ -190,7 +190,7 @@ body {
     scale: 27%;
     left: -20px;
     top: 240px;
-    animation: 2s linear 0s infinite alternate shoe-step;
+    animation: 1s linear 0s infinite alternate shoe-step;
     animation-delay: unset;
 }
 
@@ -199,7 +199,7 @@ body {
     scale: 33%;
     left: 80px;
     top: 530px;
-    animation: 2s linear 0s infinite alternate shoe-step;
+    animation: 3s linear 0s infinite alternate shoe-step;
 }
 
 .chaussure4 {
@@ -207,7 +207,7 @@ body {
     scale: 30%;
     left: -400px;
     top: 520px;
-    animation: 2s linear 0s infinite alternate shoe-step;
+    animation: 2.5s linear 0s infinite alternate shoe-step;
 }
 
 @keyframes shoe-step {
@@ -234,11 +234,70 @@ body {
     top: 300px;
 }
 
+.tduragm {
+    position: absolute;
+    left: 1235px;
+    top: 550px;
+}
+
+.tduragm:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
+.tduragp {
+    position: absolute;
+    left: 875px;
+    top: 563px;
+}
+
+.tduragp:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
+.tduragv {
+    position: absolute;
+    left: 1020px;
+    top: 143px;
+}
+
+.tduragv:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
+.tduragsi {
+    position: absolute;
+    left: 1612px;
+    top: 558px;
+}
+
+.tduragsi:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
+.tduragsa {
+    position: absolute;
+    left: 1452px;
+    top: 143px;
+}
+
+.tduragsa:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
 .duragm {
     position: absolute;
     scale: 25%;
     left: 725px;
     top: -20px;
+}
+
+.duragm:hover {
+    transform: scale(1.05) rotate(2deg);
 }
 
 .duragp {
@@ -248,11 +307,19 @@ body {
     top: 145px;
 }
 
+.duragp:hover {
+    transform: scale(1.05) rotate(2deg);
+}
+
 .duragsa {
     position: absolute;
     scale: 30%;
     left: 1150px;
     top: -250px;
+}
+
+.duragsa:hover {
+    transform: scale(1.05) rotate(2deg);
 }
 
 .duragsi {
@@ -262,9 +329,17 @@ body {
     top: 220px;
 }
 
+.duragsi:hover {
+    transform: scale(1.05) rotate(2deg);
+}
+
 .duragv {
     position: absolute;
     scale: 26%;
     left: 620px;
     top: -370px;
+}
+
+.duragv:hover {
+    transform: scale(1.05) rotate(2deg);
 }
