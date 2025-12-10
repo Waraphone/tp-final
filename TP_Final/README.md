@@ -4,6 +4,9 @@ Nous présentons une étagère conçue pour mettre en valeur trois univers qui n
 
 Les pages sont listées de façon à ce que la dernière tablette de l’étagère soit la première et la première, la dernière. Pour accéder à ces pages, il suffit de cliquer sur les éléments qui ont l’air plus réaliste. L’auteure de l’étage consacré à Ryuseitai est Waraphone Louangthep-Phiv. Celui de la collection de durags est Marvens Jerry Lamour et l’auteure de la tablette de parfums est Kelly-Ann Anelus.
 
+Lien GitHub:
+https://github.com/Waraphone/tp-final
+
 | CRÉDITS |
 
 Pour Ryuseitai:
