@@ -33,4 +33,12 @@ https://www.pexels.com/fr-fr/photo/photographie-de-champ-de-lavande-sous-un-ciel
 
 Fleurs de la page de parfums 
 
+
+https://www.easelcap.com/produit-p-372939.html
+https://durag-wave.com/products/durag-soie-bleu-electrique
+https://www.amazon.ca/-/fr/Bandanas-longue-respirante-sangles-marine/dp/B0B253NQ9Q
+https://www.etsy.com/ca-fr/listing/1475720081/durag-soyeux-haut-de-gamme-rose-fonce
+
+Les durags
+
  
