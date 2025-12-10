@@ -11,20 +11,25 @@ Les pages sont listées de façon à ce que la dernière tablette de l’étagè
 | CRÉDITS |
 
 RYUSEITAI | The English Ensemble Stars Wiki | Fandom 
+https://ensemble-stars.fandom.com/wiki/RYUSEITAI 
 
 Pour Ryuseitai 
 
 Midori Takamine | The English Ensemble Stars Wiki | Fandom 
+https://ensemble-stars.fandom.com/wiki/Midori_Takamine
 
 Pourle personnage des pages Ryuseitai  
 
  
 
 Papier parchemin roulé réaliste isolé | PSD Gratuite 
+https://fr.freepik.com/psd-gratuit/papier-parchemin-roule-realiste-isole_371008697.htm#fromView=keyword&page=1&position=0&uuid=535713b4-159c-4d16-bb8b-05a02576efd0&query=Parchemin
+
 
 Parchemin des pages de parfums 
 
 Photographie De Champ De Lavande Sous Un Ciel Bleu Clair · Photo gratuite 
+https://www.pexels.com/fr-fr/photo/photographie-de-champ-de-lavande-sous-un-ciel-bleu-clair-1272573/
 
 Fleurs de la page de parfums 
 
